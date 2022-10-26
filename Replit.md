@@ -12,3 +12,6 @@ https://docs.google.com/document/d/1odVkYbVOCWl3niBW2wLQRqgMfvCS8OCKEAm301P-8Jk/
 
 Ссылка на Скрины STEPIK 25.10.2022
 https://docs.google.com/document/d/1DNriuLDmVTpdaSN0uZ0J0Srdz9imZUjSDPP5BMb2ooc/edit?usp=drivesdk
+
+Ссылка на Скрины STEPIC 26.10.2022
+https://docs.google.com/document/d/1DdK3fUMSZWHTMVwWIlv9ta6Vo1RghSJsOz5HDvbVVME/edit?usp=sharing

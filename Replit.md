@@ -1,4 +1,4 @@
-8Ссылка на SQL собеседование 18.10.2022
+98Ссылка на SQL собеседование 18.10.2022
 https://docs.google.com/document/d/19qSpRBv6-zDL6mp5So2doho22-M_yQ-pnkTBj_-f_BA/edit?usp=drivesdk
 
 Ссылка на экспорт БД студенты
@@ -15,3 +15,6 @@ https://docs.google.com/document/d/1DNriuLDmVTpdaSN0uZ0J0Srdz9imZUjSDPP5BMb2ooc/
 
 Ссылка на Скрины STEPIC 26.10.2022
 https://docs.google.com/document/d/1DdK3fUMSZWHTMVwWIlv9ta6Vo1RghSJsOz5HDvbVVME/edit?usp=sharing
+
+Ссылка на Скрины STEPIC 27.10.2022
+https://docs.google.com/document/d/1I5ncPozkq9fuZ-uyhhUte2hwzUxiUwXnWAobjPMuczo/edit?usp=drivesdk

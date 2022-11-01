@@ -18,6 +18,3 @@ https://docs.google.com/document/d/1DdK3fUMSZWHTMVwWIlv9ta6Vo1RghSJsOz5HDvbVVME/
 
 Ссылка на Скрины STEPIC 27.10.2022
 https://docs.google.com/document/d/1I5ncPozkq9fuZ-uyhhUte2hwzUxiUwXnWAobjPMuczo/edit?usp=drivesdk
-
-Скрипт БД book1
-https://docs.google.com/document/d/1-M9znoCt96Rqv0ZrIa22e7tW2I8GicaTSzY6_PiiICE/edit?usp=drivesdk

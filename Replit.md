@@ -30,3 +30,6 @@ https://docs.google.com/document/d/1WNym8suh72CTaK9G1Fji4gvjhaz_DKNS7qXjaDga5X4/
 
 Сертификат Stepic SQL 
 https://docs.google.com/document/d/1RW1jgPZHZ5EF5OT8RZZ0Qwc-0mrHigaovcDraBwopSw/edit?usp=share_link
+
+Работа 3.3 за 10.11.22
+https://docs.google.com/document/d/1Jo2GFpO4HyFrvK2cPLkOPawvqA67ow4I81fYTrR7ggk/edit?usp=share_link

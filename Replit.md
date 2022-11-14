@@ -33,3 +33,6 @@ https://drive.google.com/file/d/12XKLc_330SS5MIbThHD7jZ-ce0szfooY/view?usp=drive
 
 Работа 3.3 за 10.11.22
 https://docs.google.com/document/d/1Jo2GFpO4HyFrvK2cPLkOPawvqA67ow4I81fYTrR7ggk/edit?usp=share_link
+
+Аэропорт
+https://docs.google.com/document/d/1ZysM1dOU9DQl3kji8496X7B7W_MCwiaowAKcn7Z8BeM/edit?usp=share_link

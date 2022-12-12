@@ -36,3 +36,6 @@ https://docs.google.com/document/d/1Jo2GFpO4HyFrvK2cPLkOPawvqA67ow4I81fYTrR7ggk/
 
 Аэропорт
 https://docs.google.com/document/d/1ZysM1dOU9DQl3kji8496X7B7W_MCwiaowAKcn7Z8BeM/edit?usp=share_link
+
+СЛАУ
+https://docs.google.com/spreadsheets/d/1V3t-Au0YjsfdWtLXr2a15Ztn6C0nBva3/edit?usp=sharing&ouid=114987831998259542559&rtpof=true&sd=true
